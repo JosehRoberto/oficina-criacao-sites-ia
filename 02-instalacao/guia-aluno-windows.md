@@ -54,7 +54,7 @@ Se aparecer ARM64 ou 32 bits, avise o ministrante.
 
 Algumas instalações podem pedir autorização do Windows. Autorize somente quando tiver certeza de que você mesmo iniciou a instalação do programa correto.
 
-Se o notebook for institucional e pedir uma senha que você não conhece, pare e procure o responsável pelo equipamento.
+Se o notebook pedir uma senha de administrador que você não tem, pare e avise o ministrante antes da oficina.
 
 ## Etapa 3 — Abrir o Prompt de Comando
 
