@@ -75,7 +75,7 @@ Essa janela será usada para os comandos deste guia.
 
 ## Etapa 4 — Instalar o VS Code
 
-1. Acesse o site oficial do Visual Studio Code.
+1. Acesse o site oficial do Visual Studio Code: https://code.visualstudio.com/
 2. Baixe a versão para Windows, preferencialmente **User Installer x64**.
 3. Abra o instalador.
 4. Avance pelas etapas mantendo as opções padrão.
@@ -94,7 +94,7 @@ Essa janela será usada para os comandos deste guia.
 
 ## Etapa 5 — Instalar o Git
 
-1. Acesse o site oficial do Git for Windows.
+1. Acesse o site oficial do Git for Windows: https://git-scm.com/download/win
 2. Baixe o instalador.
 3. Execute o arquivo baixado.
 4. Quando aparecer a escolha do editor, selecione o VS Code, se a opção estiver disponível.
@@ -118,7 +118,7 @@ git --version
 
 ## Etapa 6 — Instalar o Node.js
 
-1. Acesse o site oficial do Node.js.
+1. Acesse o site oficial do Node.js: https://nodejs.org/
 2. Baixe a versão **LTS** aprovada para a oficina.
 3. Abra o instalador `.msi`.
 4. Mantenha Node.js e npm selecionados.
@@ -249,7 +249,7 @@ Siga apenas as orientações do ministrante sobre quais opções priorizar.
 
 ## Etapa 12 — NVIDIA Build
 
-1. Acesse o portal da NVIDIA Build.
+1. Acesse o portal da NVIDIA Build: https://build.nvidia.com/
 2. Crie sua conta ou faça login.
 3. Localize a área de API.
 4. Gere uma chave para uso na oficina.
@@ -268,7 +268,7 @@ No OpenCode, use `/connect` para conectar esse provedor.
 
 ## Etapa 13 — Google Gemini API
 
-1. Acesse o Google AI Studio.
+1. Acesse o Google AI Studio: https://aistudio.google.com/
 2. Faça login com sua conta Google.
 3. Procure a área de chaves de API.
 4. Crie uma chave no projeto correto.
@@ -287,7 +287,7 @@ No OpenCode, use `/connect` para conectar o provedor Gemini.
 
 ## Etapa 14 — GroqCloud
 
-1. Acesse o console da Groq.
+1. Acesse o console da Groq: https://console.groq.com/
 2. Crie sua conta.
 3. Localize a área de API Keys.
 4. Gere uma nova chave.
@@ -306,7 +306,7 @@ No OpenCode, use `/connect` para conectar o provedor Groq.
 
 ## Etapa 15 — OpenRouter
 
-1. Acesse o OpenRouter.
+1. Acesse o OpenRouter: https://openrouter.ai/
 2. Crie sua conta.
 3. Localize a área de chaves.
 4. Gere uma chave de API.
