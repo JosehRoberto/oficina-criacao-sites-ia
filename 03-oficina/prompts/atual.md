@@ -1,5 +1,11 @@
 # Prompts liberados (mais recente primeiro)
 
+## Prompt 5 — Cartões de trilha
+
+```text
+Crie cartões para as trilhas de aprendizagem contendo título, descrição, duração e botão de acesso.
+```
+
 ## Prompt 4 — Layout responsivo
 
 ```text
