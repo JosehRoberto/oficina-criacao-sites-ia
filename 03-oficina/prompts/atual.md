@@ -1,5 +1,12 @@
 # Prompts liberados (mais recente primeiro)
 
+## Prompt 3 — Página inicial
+
+```text
+Preencha a página inicial com uma área de destaque, uma apresentação do projeto, uma seção de trilhas de aprendizagem, uma seção de recursos, uma área para portfólio e um rodapé com contato.
+Use português do Brasil.
+```
+
 ## Prompt 2 — Estrutura inicial
 
 ```text
