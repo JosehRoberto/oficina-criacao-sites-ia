@@ -1,5 +1,11 @@
 # Prompts liberados (mais recente primeiro)
 
+## Prompt 4 — Layout responsivo
+
+```text
+Melhore o layout para notebook e celular, com boa legibilidade, espaçamento consistente e navegação simples.
+```
+
 ## Prompt 3 — Página inicial
 
 ```text
